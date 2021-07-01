@@ -15,13 +15,15 @@ jobs:
       fail-fast: false
     steps:
     - uses: actions/checkout@v2.3.4
-    - uses: olafurpg/setup-scala@v10
+    - uses: coursier/cache-action@v6
+    - uses: laughedelic/coursier-setup@v1
       with:
-        java-version: adopt@1.11
-    - run: sbt scalafmtCheck
-    - run: sbt scalafmtSbtCheck
-    - run: sbt "scalafix --check"
-    - run: sbt headerCheck
+        jvm: adopt:11
+        apps: sbtn
+    - run: sbtn scalafixAll --check
+    - run: sbtn scalafmtCheckAll
+    - run: sbtn scalafmtSbtCheck
+    - run: sbtn headerCheckAll
     - name: yaml-lint
       uses: ibiqlik/action-yamllint@v3
 
@@ -32,7 +34,9 @@ jobs:
       fail-fast: false
     steps:
     - uses: actions/checkout@v2.3.4
-    - uses: olafurpg/setup-scala@v10
+    - uses: coursier/cache-action@v6
+    - uses: laughedelic/coursier-setup@v1
       with:
-        java-version: adopt@1.11
-    - run: sbt build
+        jvm: adopt:11
+        apps: sbtn
+    - run: sbtn build
