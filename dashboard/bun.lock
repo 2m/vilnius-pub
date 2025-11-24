@@ -16,7 +16,7 @@
         "@evidence-dev/postgres": "^1.0.8",
         "@evidence-dev/snowflake": "^1.2.3",
         "@evidence-dev/source-javascript": "^0.0.3",
-        "@evidence-dev/sqlite": "^2.0.7",
+        "@evidence-dev/sqlite": "^2.0.8",
         "@evidence-dev/trino": "^1.0.9",
       },
     },
@@ -339,7 +339,7 @@
 
     "@evidence-dev/source-javascript": ["@evidence-dev/source-javascript@0.0.3", "", { "dependencies": { "@evidence-dev/db-commons": "^1.0.5" } }, "sha512-8q20aiK4DEz4p2hKQIZU87MfipPM8jMEhaN7y8CFilTUruqS+1tqFFnn+V0YFg0GcF0JoCzGZ0LX+g3+SzpXuA=="],
 
-    "@evidence-dev/sqlite": ["@evidence-dev/sqlite@2.0.7", "", { "dependencies": { "@evidence-dev/db-commons": "1.0.6", "sqlite": "4.2.1", "sqlite3": "5.1.6" } }, "sha512-xYaUu7CuYh4IMFBvMnpdjpeF4Lcf8sJMAffKBHaQisBxFr9p+UT+9lTpuPZI56VF1B0SDrEPCSqNVVSR7gcJYQ=="],
+    "@evidence-dev/sqlite": ["@evidence-dev/sqlite@2.0.8", "", { "dependencies": { "@evidence-dev/db-commons": "1.1.0", "sqlite": "4.2.1", "sqlite3": "5.1.6" } }, "sha512-N+Fy+eByEWsjWRE23arM6BfmPau6Eej6sr6x7VtMcXDIYMFdmtjyUL9MGr5i5bxa+bExjilvwI8H8dQ3Q4yqTg=="],
 
     "@evidence-dev/tailwind": ["@evidence-dev/tailwind@3.0.10", "", { "dependencies": { "@evidence-dev/sdk": "^3.0.9", "chroma-js": "^2.4.2", "lodash": "^4.17.21", "tailwindcss": "4.0.6", "zod": "^3.23.8" } }, "sha512-HTKUNAt1zRN/B50bBQ84Dtw49+QySSrOnWqXhcan0L98n/OB4l8oPLoVP1JDFFNKYOXlByU8qtt3I++BaWbFwg=="],
 
@@ -2350,6 +2350,8 @@
     "@evidence-dev/sdk/@uwdata/mosaic-sql": ["@uwdata/mosaic-sql@0.10.0", "", {}, "sha512-tPsgrHO8zTwLFMBR+BiG4fskK9RSbH+nXS9ju8433NDq3qicAq4Z46CnYpCs0vWIR7AUAxMvncqP6YPbiQhOug=="],
 
     "@evidence-dev/snowflake/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
+
+    "@evidence-dev/sqlite/@evidence-dev/db-commons": ["@evidence-dev/db-commons@1.1.0", "", { "dependencies": { "fs-extra": "11.2.0" } }, "sha512-ZKuRWblgApC6X0BHXt4StZgYC2nQ4uoz2yRAoVAi+ua96WUxmpoawOIELlH0TYtZYcDvuu4C3yxuX/MPAHTX0w=="],
 
     "@evidence-dev/universal-sql/apache-arrow": ["apache-arrow@17.0.0", "", { "dependencies": { "@swc/helpers": "^0.5.11", "@types/command-line-args": "^5.2.3", "@types/command-line-usage": "^5.0.4", "@types/node": "^20.13.0", "command-line-args": "^5.2.1", "command-line-usage": "^7.0.1", "flatbuffers": "^24.3.25", "json-bignum": "^0.0.3", "tslib": "^2.6.2" }, "bin": { "arrow2csv": "bin/arrow2csv.cjs" } }, "sha512-X0p7auzdnGuhYMVKYINdQssS4EcKec9TCXyez/qtJt32DrIMGbzqiaMiQ0X6fQlQpw8Fl0Qygcv4dfRAr5Gu9Q=="],
 
