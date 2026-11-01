@@ -1,0 +1,12 @@
+checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
+1612491381,2026-11-01,1.5,"","",Pomegranate Lime Gose,Sour - Fruited Gose,4.8,Bear & Boar,Lithuania,Bear & Boar Taproom
+1612496906,2026-11-01,3.3,"","",Bocmano Ūsai (Bosun’s Moustache),IPA - American,6.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Domus Maria
+1612501358,2026-11-01,4.5,"",Vilnius,Vīnogu Mežonis,Wild Ale - Other,8.0,Labietis. Pagan Brews,Latvia,Naujamiestis
+1612501525,2026-11-01,3.5,"",Vilnius,Gilyn į Mišką,Pale Ale - American,4.9,Green Monster Brewery,Lithuania,Alaus kolonėlė
+1612502498,2026-11-01,4.0,"",Vilnius,HAZY KRUSH American Hazy IPA,IPA - New England / Hazy,6.0,NOZIB Special Brews,Czech Republic,Naujamiestis
+1612503647,2026-11-01,3.5,"",Vilnius,Sommartider,Blonde / Golden Ale - Other,5.0,Wasa Brewing Company,Finland,Alaus kolonėlė
+1612506218,2026-11-01,3.8,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Lumi Namai
+1612530700,2026-11-01,3.8,"",Vilnius,ANIMA,IPA - American,5.1,Volta Brewery,Ukraine,Def Enjoy
+1612534136,2026-11-01,3.3,"",Vilnius,IPUTĖ (Little IPA),IPA - American,5.1,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1612534805,2026-11-01,4.3,"",Vilnius,Anatomy of Hunger,Porter - Imperial / Double Baltic,11.0,Piwne Podziemie / Beer Underground,Poland,Naujamiestis
+1612539808,2026-11-01,4.3,"",Vilnius,Bobcat,IPA - Imperial / Double New England / Hazy,8.0,Lolev Beer,United States,Def Enjoy
