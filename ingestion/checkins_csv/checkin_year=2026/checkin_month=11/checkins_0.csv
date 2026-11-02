@@ -10,3 +10,175 @@ checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_a
 1612534136,2026-11-01,3.3,"",Vilnius,IPUTĖ (Little IPA),IPA - American,5.1,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
 1612534805,2026-11-01,4.3,"",Vilnius,Anatomy of Hunger,Porter - Imperial / Double Baltic,11.0,Piwne Podziemie / Beer Underground,Poland,Naujamiestis
 1612539808,2026-11-01,4.3,"",Vilnius,Bobcat,IPA - Imperial / Double New England / Hazy,8.0,Lolev Beer,United States,Def Enjoy
+1612596193,2026-11-01,4.0,"","",Humulupu IPA,IPA - Session,5.0,Dundulis,Lithuania,Etmonų Špunka
+1612597580,2026-11-01,2.5,"","",1410 Lager/Šviesusis,Lager - Pale,5.3,Volfas Engelman,Lithuania,City Hotels — Rūdninkai
+1612598049,2026-11-01,3.3,"",Vilnius,MoliūgElis (Pumpkin Ale),Pumpkin / Yam Beer,5.8,Craft & Draft Brewpub & Whiskey,Lithuania,Craft & Draft
+1612601417,2026-11-01,4.3,"",Lviv,Cyffug,Stout - Imperial / Double Pastry,10.5,Sofia Electric Brewing ,Bulgaria,Alaus Biblioteka
+1612602872,2026-11-01,3.0,"","Vilnius, Lithuania",Brālis Gaišais Nefiltrēts,Lager - Pale,5.3,Brālis,Latvia,Pilaitės biblioteka
+1612603576,2026-11-01,4.0,"","",Savana,IPA - American,6.9,Pilialaukis,Lithuania,Devinkė
+1612603605,2026-11-01,2.3,"","",Galvė,Pale Ale - Other,5.0,Pilialaukis,Lithuania,Devinkė
+1612603651,2026-11-01,3.5,"","",IPA,IPA - American,5.3,Klausučių Bravoras (UAB Armėniukas),Lithuania,Devinkė
+1612606470,2026-11-01,3.5,"",?eská Lípa ,7 Fridays APA,Pale Ale - American,5.5,7 Fridays,Lithuania,7 Fridays
+1612606889,2026-11-01,3.5,"","",SUPER 8 Blanche,Wheat Beer - Witbier / Blanche,5.1,Brouwerij Haacht Brasserie,Belgium,aguonu 11
+1612607301,2026-11-01,2.3,"",Strakonice,Kalnapilis Original,Lager - Pale,5.0,Kalnapilis Brewery,Lithuania,Vilniaus oro uostas | Vilnius International Airport (VNO) (Tarptautinis Vilniaus oro uostas)
+1612609282,2026-11-01,2.5,"","",Kalnapilis Original,Lager - Pale,5.0,Kalnapilis Brewery,Lithuania,Narbutas Business Lounge
+1612611589,2026-11-01,3.3,"","",Kalnapilis Original,Lager - Pale,5.0,Kalnapilis Brewery,Lithuania,Narbutas Business Lounge
+1612611756,2026-11-01,3.5,"",Vilnius,Perła Mango z Marakują,Lager - Fruited  ,4.0,Perła - Browary Lubelskie S.A.,Poland,Perla
+1612621928,2026-11-01,4.0,"","",Nastupnaja stancyja,Sour - Other,7.0,1542|BEER,Belarus,Zolak
+1612622105,2026-11-01,4.0,"",Vilnius,Piekła 4.0,Sour - Tomato / Vegetable Gose,4.2,1542|BEER,Belarus,Zolak
+1612622611,2026-11-01,3.8,"","","Kupalle 3.0 Dźmuchaŭcy, Pupyški Jełki, Skurka Pamarančy J Limona",Mead - Metheglin,12.0,1542|BEER,Belarus,Zolak
+1612622824,2026-11-01,4.3,"","","Kupalle 3.0 Dźmuchaŭcy, Pupyški Jełki, Skurka Pamarančy J Limona",Mead - Metheglin,12.0,1542|BEER,Belarus,Zolak
+1612622942,2026-11-01,3.8,"","","Kupalle 3.0 Dźmuchaŭcy, Pupyški Jełki, Skurka Pamarančy J Limona",Mead - Metheglin,12.0,1542|BEER,Belarus,Zolak
+1612622943,2026-11-01,4.0,"",Vilnius,Babina Leta 2.0,Wild Ale - Other,8.3,1542|BEER,Belarus,Zolak
+1612623198,2026-11-01,4.0,"","",Babina Leta 2.0,Wild Ale - Other,8.3,1542|BEER,Belarus,Zolak
+1612623403,2026-11-01,3.8,"",Minsk,Kryvaсmok,IPA - Red,7.3,Vitland Brewer,Lithuania,Zolak
+1612623499,2026-11-01,3.5,Пуставата,"",Dziady 3.0,Rauchbier,6.7,1542|BEER,Belarus,Zolak
+1612623500,2026-11-01,4.3,"","",Piekła 4.0,Sour - Tomato / Vegetable Gose,4.2,1542|BEER,Belarus,Zolak
+1612623702,2026-11-01,5.0,"","",Piekła 4.0,Sour - Tomato / Vegetable Gose,4.2,1542|BEER,Belarus,Zolak
+1612623909,2026-11-01,4.0,"Прикольно, не пиво",Minsk,Lucypar | Gose Style Hydromel,Mead - Other,7.0,Hust Homebrew,Belarus,Zolak
+1612623966,2026-11-01,4.0,"",Vilnius,Letni ŭspamin,Historical Beer - Gruit / Ancient Herbed Ale,4.4,Vitland Brewer,Lithuania,Zolak
+1612624173,2026-11-01,3.3,"","",Letni ŭspamin,Historical Beer - Gruit / Ancient Herbed Ale,4.4,Vitland Brewer,Lithuania,Zolak
+1612624504,2026-11-01,3.8,"","",Noč Na Samajn,Stout - Oatmeal,3.5,Vitland Brewer,Lithuania,Zolak
+1612624537,2026-11-01,4.0,"",Vilnius,Žuraviny 2026,Farmhouse Ale - Saison,5.2,Vitland Brewer,Lithuania,Zolak
+1612624721,2026-11-01,4.0,"","",Rubber Duck,IPA - New England / Hazy,6.8,Sofia Electric Brewing ,Bulgaria,Alaus Biblioteka
+1612624807,2026-11-01,3.5,"","",Kryvaсmok,IPA - Red,7.3,Vitland Brewer,Lithuania,Zolak
+1612624946,2026-11-01,4.0,"","",Dziady 3.0,Rauchbier,6.7,1542|BEER,Belarus,Zolak
+1612624951,2026-11-01,4.0,"",Vilnius,Kryvaсmok,IPA - Red,7.3,Vitland Brewer,Lithuania,Zolak
+1612624984,2026-11-01,3.0,"","",Žuraviny 2026,Farmhouse Ale - Saison,5.2,Vitland Brewer,Lithuania,Zolak
+1612625225,2026-11-01,4.5,"",Minsk,Piekła 4.0,Sour - Tomato / Vegetable Gose,4.2,1542|BEER,Belarus,Zolak
+1612625379,2026-11-01,3.8,"","",Babina Leta 2.0,Wild Ale - Other,8.3,1542|BEER,Belarus,Zolak
+1612625410,2026-11-01,3.5,"Незвычайна, занадта восток для мне, меда канешне малавата","",Lucypar | Gose Style Hydromel,Mead - Other,7.0,Hust Homebrew,Belarus,Zolak
+1612625474,2026-11-01,4.3,"",Vilnius,Noč Na Samajn,Stout - Oatmeal,3.5,Vitland Brewer,Lithuania,Zolak
+1612625525,2026-11-01,4.0,"",Minsk,Babina Leta 2.0,Wild Ale - Other,8.3,1542|BEER,Belarus,Zolak
+1612625629,2026-11-01,3.5,"",Minsk,Letni ŭspamin,Historical Beer - Gruit / Ancient Herbed Ale,4.4,Vitland Brewer,Lithuania,Zolak
+1612625759,2026-11-01,3.5,"","",Nastupnaja stancyja,Sour - Other,7.0,1542|BEER,Belarus,Zolak
+1612625787,2026-11-01,3.8,"",Minsk,Nastupnaja stancyja,Sour - Other,7.0,1542|BEER,Belarus,Zolak
+1612626392,2026-11-01,3.5,"","",Letni Viečar,Mead - Session / Short,8.0,Hust Homebrew,Belarus,Zolak
+1612626637,2026-11-01,4.3,"",Vilnius,Red Velvet.,Mead - Other,10.4,Hust Homebrew,Belarus,Zolak
+1612626848,2026-11-01,4.5,"","",Žuraviny 2026,Farmhouse Ale - Saison,5.2,Vitland Brewer,Lithuania,Zolak
+1612626930,2026-11-01,4.3,"",Vilnius,Letni Viečar,Mead - Session / Short,8.0,Hust Homebrew,Belarus,Zolak
+1612627201,2026-11-01,3.5,"","",Red Velvet.,Mead - Other,10.4,Hust Homebrew,Belarus,Zolak
+1612627279,2026-11-01,3.8,"",Minsk,Red Velvet.,Mead - Other,10.4,Hust Homebrew,Belarus,Zolak
+1612627464,2026-11-01,4.5,"",Vilnius,Dzie Moj Kraj,Mead - Melomel,14.5,Hust Homebrew,Belarus,Zolak
+1612627728,2026-11-01,4.0,"",Scotland,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Piano Man Bar
+1612627926,2026-11-01,3.8,"",Minsk,Čorny Les 2.0,Mead - Melomel,11.0,Hust Homebrew,Belarus,Zolak
+1612627931,2026-11-01,3.8,"","",Kryvaсmok,IPA - Red,7.3,Vitland Brewer,Lithuania,Zolak
+1612627966,2026-11-01,3.8,"Вадзяніста крыху, цела б паболей і кансістэнцыі б болей кан'ячнай","",Dzie Moj Kraj,Mead - Melomel,14.5,Hust Homebrew,Belarus,Zolak
+1612627979,2026-11-01,4.0,"",Vilnius,Čorny Les 2.0,Mead - Melomel,11.0,Hust Homebrew,Belarus,Zolak
+1612628227,2026-11-01,5.0,"","",Letni ŭspamin,Historical Beer - Gruit / Ancient Herbed Ale,4.4,Vitland Brewer,Lithuania,Zolak
+1612628251,2026-11-01,3.8,"Тое самае, вадзяніста крыху, цела не хапае","",Čorny Les 2.0,Mead - Melomel,11.0,Hust Homebrew,Belarus,Zolak
+1612628409,2026-11-01,4.0,"",Minsk,Letni Viečar,Mead - Session / Short,8.0,Hust Homebrew,Belarus,Zolak
+1612628640,2026-11-01,4.0,"","",Dzie Moj Kraj,Mead - Melomel,14.5,Hust Homebrew,Belarus,Zolak
+1612628690,2026-11-01,4.3,"",Vilnius,Lucypar | Gose Style Hydromel,Mead - Other,7.0,Hust Homebrew,Belarus,Zolak
+1612628767,2026-11-01,4.3,"",Minsk,Dzie Moj Kraj,Mead - Melomel,14.5,Hust Homebrew,Belarus,Zolak
+1612628815,2026-11-01,4.3,"","",Red Velvet.,Mead - Other,10.4,Hust Homebrew,Belarus,Zolak
+1612629232,2026-11-01,4.0,"","",Čorny Les 2.0,Mead - Melomel,11.0,Hust Homebrew,Belarus,Zolak
+1612629438,2026-11-01,3.5,"","",Letni Viečar,Mead - Session / Short,8.0,Hust Homebrew,Belarus,Zolak
+1612629526,2026-11-01,3.5,"",Minsk,Noč Na Samajn,Stout - Oatmeal,3.5,Vitland Brewer,Lithuania,Zolak
+1612629553,2026-11-01,3.5,Самогон самогоныч,Vilnius,Niapravilny Miod,Mead - Other,40.0,1542|BEER,Belarus,Zolak
+1612630178,2026-11-01,3.5,"","",Blanc,Wheat Beer - Witbier / Blanche,5.0,Volfas Engelman,Lithuania,Vilnius
+1612630219,2026-11-01,3.5,"",Minsk,Žuraviny 2026,Farmhouse Ale - Saison,5.2,Vitland Brewer,Lithuania,Zolak
+1612630479,2026-11-01,3.5,"","",Žuraviny 2026,Farmhouse Ale - Saison,5.2,Vitland Brewer,Lithuania,Zolak
+1612630722,2026-11-01,0.0,"Я не магу такое ацэньваць, я ж не п'ю","",Niapravilny Miod,Mead - Other,40.0,1542|BEER,Belarus,Zolak
+1612631055,2026-11-01,3.5,"","","Kupalle 3.0 Dźmuchaŭcy, Pupyški Jełki, Skurka Pamarančy J Limona",Mead - Metheglin,12.0,1542|BEER,Belarus,Zolak
+1612631135,2026-11-01,4.0,"","",Piekła 4.0,Sour - Tomato / Vegetable Gose,4.2,1542|BEER,Belarus,Zolak
+1612631499,2026-11-01,4.3,"","",Nastupnaja stancyja,Sour - Other,7.0,1542|BEER,Belarus,Zolak
+1612631960,2026-11-01,4.3,"",Vilnius,Kryvaсmok,IPA - Red,7.3,Vitland Brewer,Lithuania,Zolak
+1612632034,2026-11-01,3.8,"","",Noč Na Samajn,Stout - Oatmeal,3.5,Vitland Brewer,Lithuania,Zolak
+1612632091,2026-11-01,3.8,"",Minsk,Dziady 3.0,Rauchbier,6.7,1542|BEER,Belarus,Zolak
+1612637036,2026-11-01,3.5,"","",Mango Milkshake,Pale Ale - Milkshake,5.6,Volfas Engelman,Lithuania,Vilnius
+1612637048,2026-11-01,4.5,"","",Čorny Les 2.0,Mead - Melomel,11.0,Hust Homebrew,Belarus,Zolak
+1612637193,2026-11-01,4.0,"","",Chilly Bin New Zealand IPA,IPA - New Zealand,7.2,Hopworks Brewery,United States,Nisha Craft Capital
+1612639644,2026-11-01,4.5,"Дзякуй, Рома",Vilnius,8 Year Anniversary Barrel Aged Imperial Stout X Barleywine Blend,Strong Ale - Other,12.0,Ārpus Brewing Co.,Latvia,Verslo Centras 135 Terrace
+1612640783,2026-11-01,3.3,"","",Guinness Draught,Stout - Irish Dry,4.2,Guinness,Ireland,Hibernia Lounge
+1612641207,2026-11-01,3.3,"","",ABRAKADABRA [ Drumstasis IPA ],IPA - New England / Hazy,5.4,Dundulis,Lithuania,ELEKTRIT
+1612641212,2026-11-01,3.5,"",Vilnius,DeJAVU,Wheat Beer - Witbier / Blanche,5.0,Dundulis,Lithuania,ELEKTRIT
+1612642668,2026-11-01,4.3,"","",New Zealand Hop Harvest Hazy IPA 2026,IPA - New England / Hazy,5.5,Dūmų Brewery,Lithuania,ELEKTRIT
+1612642959,2026-11-01,4.5,"","",New Zealand Hop Harvest Hazy IPA 2026,IPA - New England / Hazy,5.5,Dūmų Brewery,Lithuania,ELEKTRIT
+1612643226,2026-11-01,3.5,"","",NEIPA,IPA - New England / Hazy,5.0,Volfas Engelman,Lithuania,Fuksas
+1612644373,2026-11-01,4.3,"","",Michaela,Wild Ale - Other,6.5,Schneeeule,Germany,Nisha Craft Capital
+1612647434,2026-11-01,3.8,"","",New Zealand Hop Harvest IPA 2026,IPA - Session New England / Hazy,5.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,ELEKTRIT
+1612647548,2026-11-01,3.8,"","",Chilly Bin New Zealand IPA,IPA - New Zealand,7.2,Hopworks Brewery,United States,Nisha Craft Capital
+1612647623,2026-11-01,4.0,"",Vilnius,New Zealand Hop Harvest IPA 2026,IPA - Session New England / Hazy,5.5,Sakiškės Brewery / Sakiškių Alus,Lithuania,ELEKTRIT
+1612648364,2026-11-01,4.5,"","",Kryvaсmok,IPA - Red,7.3,Vitland Brewer,Lithuania,Zolak
+1612650757,2026-11-01,4.5,"","",Letni Viečar,Mead - Session / Short,8.0,Hust Homebrew,Belarus,Zolak
+1612650850,2026-11-01,4.8,"","",Dzie Moj Kraj,Mead - Melomel,14.5,Hust Homebrew,Belarus,Zolak
+1612652341,2026-11-01,3.0,"","",Original,Lager - Pale,4.5,G. Menabrea & Figli,Italy,Slice & Scoop
+1612653327,2026-11-01,3.8,"","",Long Thai Double Rainbow Rye W/ Brettanomyces,Farmhouse Ale - Saison,5.1,is/was brewing,United States,Nisha Craft Capital
+1612653822,2026-11-01,5.0,"","",Dzie Moj Kraj,Mead - Melomel,14.5,Hust Homebrew,Belarus,Zolak
+1612654845,2026-11-01,3.5,"","",Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Grill London
+1612655144,2026-11-01,3.3,"","",Boarding: Hawaii,IPA - Fruited,6.5,Funky Fluid,Poland,Local Pub
+1612655563,2026-11-01,3.5,"","",That's Next!,IPA - Imperial / Double New England / Hazy,7.8,Browar Rockmill,Poland,Nisha Craft Capital
+1612655732,2026-11-01,3.8,"","",Long Thai Double Rainbow Rye W/ Brettanomyces,Farmhouse Ale - Saison,5.1,is/was brewing,United States,Nisha Craft Capital
+1612657555,2026-11-01,4.0,"",Lithuania,Chilly Bin New Zealand IPA,IPA - New Zealand,7.2,Hopworks Brewery,United States,Nisha Craft Capital
+1612658306,2026-11-01,2.5,"","",Complot Session IPA,IPA - Session,4.3,Damm,Spain,Local Pub
+1612661185,2026-11-01,3.8,"",Vilnius,Hazy Discovery Setúbal,IPA - New England / Hazy,6.5,PINTA,Poland,Local Pub
+1612661236,2026-11-01,3.3,"","Vilnius, Lithuania",Daura,Lager - Pale,5.4,Damm,Spain,Pilaitės biblioteka
+1612661539,2026-11-01,4.0,"","",Hazy Discovery Setúbal,IPA - New England / Hazy,6.5,PINTA,Poland,Local Pub
+1612661641,2026-11-01,3.8,"",Vilnius,One More… Northern German Pilsner,Pilsner - German,5.3,Moon Lark Brewery,Poland,Local Pub
+1612662086,2026-11-01,3.8,"","",Hopzz_ Horizon,IPA - Imperial / Double New England / Hazy,8.0,PINTA,Poland,Local Pub
+1612663123,2026-11-01,3.5,"","",Small World,IPA - Imperial / Double New England / Hazy,8.0,PINTA,Poland,Local Pub
+1612663511,2026-11-01,3.8,"","",Boarding: Hawaii,IPA - Fruited,6.5,Funky Fluid,Poland,Local Pub
+1612663546,2026-11-01,4.0,"","",That's Next!,IPA - Imperial / Double New England / Hazy,7.8,Browar Rockmill,Poland,Nisha Craft Capital
+1612664171,2026-11-01,3.8,"","",Hazy Discovery Setúbal,IPA - New England / Hazy,6.5,PINTA,Poland,Local Pub
+1612664896,2026-11-01,4.5,"",Lithuania,Colorful Darkness (五彩斑斓的黑),Stout - Imperial / Double Coffee,9.8,Sheng Craft Beer (山乘酿造),China / People's Republic of China,Nisha Craft Capital
+1612665707,2026-11-01,3.0,"","",Hopzz_ Horizon,IPA - Imperial / Double New England / Hazy,8.0,PINTA,Poland,Local Pub
+1612666351,2026-11-01,4.0,"","",Chilly Bin New Zealand IPA,IPA - New Zealand,7.2,Hopworks Brewery,United States,Nisha Craft Capital
+1612666367,2026-11-01,3.8,"","",Hazy Discovery Setúbal,IPA - New England / Hazy,6.5,PINTA,Poland,Local Pub
+1612666844,2026-11-01,3.5,"","",One More… Northern German Pilsner,Pilsner - German,5.3,Moon Lark Brewery,Poland,Local Pub
+1612666914,2026-11-01,4.3,"","",Under the Same Sky,IPA - Imperial / Double New England / Hazy,8.4,Verdant Brewing Co,England,Nisha Craft Capital
+1612670602,2026-11-01,4.0,"","",That's Next!,IPA - Imperial / Double New England / Hazy,7.8,Browar Rockmill,Poland,Nisha Craft Capital
+1612672013,2026-11-01,3.5,"",Vilnius,Under Pressure,IPA - New England / Hazy,5.8,Browar Brokreacja,Poland,Local Pub
+1612673183,2026-11-01,3.8,"","",RIGApest Joyride,IPA - Imperial / Double New England / Hazy,8.5,Nurme,Latvia,Тупичок Тупнячка
+1612673322,2026-11-01,3.5,"","",Cider Perry (2025),Cider - Perry / Poiré,7.0,Elegast Cidery,Netherlands,Obuolys Ir Bite
+1612673962,2026-11-01,3.5,"","",Bevvy Podlaski Klasyczny,Cider - Other,4.3,Bevvy Podlaski,Poland,Obuolys Ir Bite
+1612674612,2026-11-01,3.5,"",Vilnius,Silky,IPA - New England / Hazy,6.5,Funky Fluid,Poland,Local Pub
+1612674959,2026-11-01,3.0,"","",Under Pressure,IPA - New England / Hazy,5.8,Browar Brokreacja,Poland,Local Pub
+1612675036,2026-11-01,3.8,"","",Colorful Darkness (五彩斑斓的黑),Stout - Imperial / Double Coffee,9.8,Sheng Craft Beer (山乘酿造),China / People's Republic of China,Nisha Craft Capital
+1612675140,2026-11-01,3.3,"",Scotland,Hop House 13 Lager,Lager - Pale,4.1,Guinness,Ireland,Piano Man Bar
+1612675738,2026-11-01,4.0,"","",X Years of Nisha,IPA - New England / Hazy,6.5,Browar Rockmill,Poland,Nisha Craft Capital
+1612676990,2026-11-01,4.3,"","",Persist,Stout - Imperial / Double Coffee,12.7,Tree House Brewing Company,United States,Nisha Craft Capital
+1612678062,2026-11-01,3.3,"",Vilnius,Crazy Lines Series: Storm,IPA - American,6.9,Nepo Brewing,Poland,Local Pub
+1612678526,2026-11-01,3.8,"",Vilnius,Strawberry X Black Currant X Pineapple X Coconut Smoothie Sour Ale,Sour - Smoothie / Pastry,4.5,Ārpus Brewing Co.,Latvia,Aquarius Brewery
+1612682554,2026-11-01,3.5,"","",Silky,IPA - New England / Hazy,6.5,Funky Fluid,Poland,Local Pub
+1612683600,2026-11-01,2.5,"","",Margherita Juice,Sour - Tomato / Vegetable Gose,4.5,Sibeeria Brewery,Czech Republic,Тупичок Тупнячка
+1612685650,2026-11-01,3.5,"","Vilnius, Lithuania",žiemos Nefiltruotas,Winter Ale,0.0,Kalnapilis Brewery,Lithuania,Pilaitės biblioteka
+1612686377,2026-11-01,0.0,"",Vilnius,A7Y7 X Humble Sea,IPA - American,7.5,Messorem ,Canada,Lumi Namai
+1612686555,2026-11-01,4.0,"",Lithuania,Hopzz_ Horizon,IPA - Imperial / Double New England / Hazy,8.0,PINTA,Poland,Local Pub
+1612688052,2026-11-01,3.3,"","",Crazy Lines Series: Storm,IPA - American,6.9,Nepo Brewing,Poland,Local Pub
+1612688483,2026-11-01,4.0,"","",PBBFT (Peanut Butter Banana French Toast),Mead - Acerglyn / Maple Wine,14.0,Garagiste Meadery,United States,Nisha Craft Capital
+1612691446,2026-11-01,3.8,"",?eská Lípa ,Nida,Wheat Beer - Hefeweizen,4.5,:Belike brewing,Lithuania,Local Pub
+1612695427,2026-11-01,0.0,"","",From Islay With Love,Mead - Other,15.0,Quantum Satis,Poland,Nisha Craft Capital
+1612695920,2026-11-01,3.8,"","",Here’s Honey!,Mead - Session / Short,6.0,Malmö Meadery,Sweden,Nisha Craft Capital
+1612696829,2026-11-01,4.5,"",?eská Lípa ,Franken,Kellerbier / Zwickelbier,4.7,:Belike brewing,Lithuania,Local Pub
+1612698813,2026-11-01,4.0,"","",Trójniak Augustowski Późny,Mead - Traditional,12.0,Augustowska Miodosytnia,Poland,Nisha Craft Capital
+1612703178,2026-11-01,3.8,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Lumi Namai
+1612704511,2026-11-01,3.5,"","",Triple Atlantic,IPA - Triple New England / Hazy,9.0,Browar Artezan,Poland,Local Pub
+1612704601,2026-11-01,3.5,"","",Crazy Lines Series: Storm,IPA - American,6.9,Nepo Brewing,Poland,Local Pub
+1612704776,2026-11-01,3.8,"","",Triple Atlantic,IPA - Triple New England / Hazy,9.0,Browar Artezan,Poland,Local Pub
+1612704827,2026-11-01,3.8,Nu take,Kyiv,Unlocked.,IPA - Other,6.2,Moon Lark Brewery,Poland,Local Pub
+1612705037,2026-11-01,3.5,"","",Silky,IPA - New England / Hazy,6.5,Funky Fluid,Poland,Local Pub
+1612705247,2026-11-01,3.5,"","",Under Pressure,IPA - New England / Hazy,5.8,Browar Brokreacja,Poland,Local Pub
+1612709220,2026-11-01,4.0,"",Lithuania,Triple Atlantic,IPA - Triple New England / Hazy,9.0,Browar Artezan,Poland,Local Pub
+1612710763,2026-11-01,4.0,"",Lithuania,Hazy Discovery Setúbal,IPA - New England / Hazy,6.5,PINTA,Poland,Local Pub
+1612711697,2026-11-01,4.0,Смачна,Kyiv,One More… Northern German Pilsner,Pilsner - German,5.3,Moon Lark Brewery,Poland,Local Pub
+1612716405,2026-11-01,3.5,"","",Silver Series: Punchline,IPA - American,6.9,Nepo Brewing,Poland,Local Pub
+1612721773,2026-11-01,3.8,"",LTU,Gulur,Wheat Beer - American Pale Wheat,5.2,Húsavík Öl,Iceland,Alaus kolonėlė
+1612722534,2026-11-01,3.8,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Lumi Namai
+1612724080,2026-11-01,3.5,"","",Hops Around the World: South Africa,IPA - Other,6.3,Nepo Brewing,Poland,Local Pub
+1612724486,2026-11-01,3.5,"","",Hops Around the World: South Africa,IPA - Other,6.3,Nepo Brewing,Poland,Local Pub
+1612733374,2026-11-01,4.5,"","",Hopzz_ Horizon,IPA - Imperial / Double New England / Hazy,8.0,PINTA,Poland,Local Pub
+1612735615,2026-11-01,4.5,"",LTU,DDH Ghost In the Machine,IPA - Imperial / Double New England / Hazy,8.0,Parish Brewing Co.,United States,Nisha Craft Capital
+1612737051,2026-11-01,4.8,"","",Namidus,Mead - Other,6.0,Lietuviškas Midus,Lithuania,Žukausko 35
+1612741164,2026-11-01,3.8,"",Vilnius,Penki Mazgai,IPA - New England / Hazy,5.0,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Lumi Namai
+1612743904,2026-11-01,4.5,"",Vilnius,5AM,IPA - Imperial / Double New England / Hazy,8.0,Verdant Brewing Co,England,Nisha Craft Capital
+1612744292,2026-11-01,4.5,"",Vilnius,Ārpus X Ophiussa Salted Caramel Ice Cream Stout,Stout - Imperial / Double Milk,8.5,Ārpus Brewing Co.,Latvia,Nisha Craft Capital
+1612753114,2026-11-01,4.0,"Цытрусава, ня тое каб ваў,, але ок",Kyiv,Crazy Lines Series: Storm,IPA - American,6.9,Nepo Brewing,Poland,Local Pub
+1612753835,2026-11-01,4.0,"Смачнае, дагэтуль з алычой не каштаваў нічога",Kyiv,Babina Leta 2.0,Wild Ale - Other,8.3,1542|BEER,Belarus,Zolak
+1612754574,2026-11-01,0.0,Budzma 🫡 Хораша,Kyiv,Niapravilny Miod,Mead - Other,40.0,1542|BEER,Belarus,Zolak
+1612755010,2026-11-01,4.3,"Папярэдняе Пекла былр пакруцей, але гэтае, што трэба",Kyiv,Piekła 4.0,Sour - Tomato / Vegetable Gose,4.2,1542|BEER,Belarus,Zolak
+1612755405,2026-11-01,4.3,Люблю такое,Kyiv,Kryvaсmok,IPA - Red,7.3,Vitland Brewer,Lithuania,Zolak
+1612755736,2026-11-01,4.3,Вельмі нават прыемна,Kyiv,Žuraviny 2026,Farmhouse Ale - Saison,5.2,Vitland Brewer,Lithuania,Zolak
+1612756003,2026-11-01,3.8,"Лёгенька, але суха і прыемна",Kyiv,Noč Na Samajn,Stout - Oatmeal,3.5,Vitland Brewer,Lithuania,Zolak
+1612756828,2026-11-02,4.3,"Піў сёньня, фота яшчэ зьлета, добра, Шленкерла вайб, такое мы любім",Kyiv,Nastupnaja stancyja,Sour - Other,7.0,1542|BEER,Belarus,Zolak
+1612757141,2026-11-02,3.8,"",Kyiv,Letni ŭspamin,Historical Beer - Gruit / Ancient Herbed Ale,4.4,Vitland Brewer,Lithuania,Zolak
