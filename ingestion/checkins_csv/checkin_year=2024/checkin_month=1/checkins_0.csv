@@ -1,64 +1,4 @@
 checkin_id,checkin_date,rating,comment,user_location,beer_name,beer_style,beer_abv,brewery_name,brewery_country,venue_name
-1345566163,2024-01-01,3.8,Не чекинил с прошлого года))0)0)0))0),"",Kafar,IPA - Triple New England / Hazy,9.5,Ziemia Obiecana,Poland,Nisha craft Capital
-1345566854,2024-01-01,4.5,Sehr leckeres Stout,"",Vilnius Velvet,Porter - Baltic,6.5,Bear and Boar,Lithuania,Bear&Boar Brewery Taproom
-1345568925,2024-01-01,4.5,Fast überfordernd saftig und hopfig. Schmeckt ein wenig nach Mango,"",Mystic Trail,IPA - American,5.9,Bear and Boar,Lithuania,Bear&Boar Brewery Taproom
-1345569752,2024-01-01,4.0,"","",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
-1345571886,2024-01-01,4.3,"","",Cherry x Red Currant x Apricot x Vanilla Sour Ale,Sour - Fruited,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
-1345577072,2024-01-01,4.0,"","",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
-1345577769,2024-01-01,3.8,"",Kaunas ,Alchemy APA,Pale Ale - American,5.8,Hopalaa,Latvia,Alchemikas Cocktail Lab
-1345592123,2024-01-01,4.3,"","Philadelphia, PA",Grimbergen Double Ambrée,Belgian Dubbel,6.5,Kronenbourg Brewery,France,7 Fridays
-1345593761,2024-01-01,4.0,"","",Алiварыя Калядны Цуд (Alivaria Kaliadny Cud),Lager - Winter,5.1,Пивоваренная компания «Аливария» (Alivaria Brewery),Belarus,Kraftaviks
-1345595235,2024-01-01,4.0,"Läuft bisschen außer Konkurrenz - nicht meins, aber Hut ab vor der handwerklichen Leistung. Es ist ein Multivitaminsaft-Milchshake.","",Pineapple Breeze,IPA - Milkshake,5.0,Bear and Boar,Lithuania,Bear&Boar Brewery Taproom
-1345600834,2024-01-01,4.0,А пиво то ПРОШЛОГОДНЕЕ))))0)0)00))),"",This Is Memorial Device,IPA - American,6.5,Verdant Brewing Co,England,Nisha craft Capital
-1345606077,2024-01-01,4.3,"",Vilnius,Ashes & Diamonds: Tawny Port / Raisins / Figs / Dates,Barleywine - American,12.0,Funky Fluid,Poland,Naujamiestis
-1345615239,2024-01-01,4.0,"","",Алiварыя Калядны Цуд (Alivaria Kaliadny Cud),Lager - Winter,5.1,Пивоваренная компания «Аливария» (Alivaria Brewery),Belarus,Kraftaviks
-1345615411,2024-01-01,3.8,"",Vilnius,XII Flemish Red Ale,Sour - Flanders Red Ale,5.2,Sosab - Sour Ale Brewery,Belgium,Žvėryno Mansarda
-1345626723,2024-01-01,3.8,"","",Citra IPA,IPA - American,5.4,Bear and Boar,Lithuania,Nisha craft Capital
-1345642506,2024-01-01,4.0,Ačiū!,"",Set It Up,IPA - New England / Hazy,6.0,Cloudwater Brew Co.,England,Nisha craft Capital
-1345645624,2024-01-01,2.5,Meh,"",Upstream Pale Ale,Pale Ale - Other,4.5,Rye River Brewing Company,Ireland,Vilnius
-1345650637,2024-01-01,3.8,"","",Order Lost,IPA - White / Wheat,6.5,Hop Racer,Netherlands,Nisha craft Capital
-1345650915,2024-01-01,4.5,"",Vilnius,Anagram Blueberry Cheesecake Stout,Stout - Imperial / Double Pastry,12.0,Omnipollo,Sweden,Naujamiestis
-1345653273,2024-01-01,4.3,Барбарыска,"",Secret Machine - Cherry Cobbler Pie A La Mode,Fruit Beer,7.0,Dewey Beer Company,United States,Nisha craft Capital
-1345653697,2024-01-01,4.0,"","",Secret Machine - Cherry Cobbler Pie A La Mode,Fruit Beer,7.0,Dewey Beer Company,United States,Nisha craft Capital
-1345655421,2024-01-01,3.8,"","",Order Lost,IPA - White / Wheat,6.5,Hop Racer,Netherlands,Nisha craft Capital
-1345657015,2024-01-01,4.0,"","","Dora #56",IPA - American,6.5,Badlands Brewing Company,Canada,Nisha craft Capital
-1345657597,2024-01-01,4.0,"","","Dora #56",IPA - American,6.5,Badlands Brewing Company,Canada,Nisha craft Capital
-1345671056,2024-01-01,4.0,"","",Lil' Space Booties,Pale Ale - New England / Hazy,5.5,More Brewing Company,United States,Nisha craft Capital
-1345689417,2024-01-01,0.8,"","",Heineken,Lager - Pale,5.0,Heineken,Netherlands,Misterija
-1345697548,2024-01-01,1.0,"","",Miller Genuine Draft,Lager - American,4.7,Miller Brewing Company,United States,ibis Vilnius Centre
-1345713973,2024-01-01,2.3,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Misterija
-1345793298,2024-01-01,4.3,"","",Mind on Fire,IPA - Triple New England / Hazy,9.5,Spartacus Brewing,Brazil,Nisha craft Capital
-1345797933,2024-01-01,3.0,"",Vilnius,Corn Lager,Lager - Other,4.3,Sakiškės Brewery / Sakiškių Alus,Lithuania,Žvėryno Mansarda
-1345802478,2024-01-01,3.0,"","",Ichiban (Ichiban Shibori) (一番搾り),Lager - Pale,5.0,Kirin Brewery Company,Japan,Linkmenų Ežerai
-1345804953,2024-01-01,3.5,Labai gerai. Atgaivina ir neįpareigoja.,Vilnius,1664 Blanc,Wheat Beer - Witbier / Blanche,5.0,Kronenbourg Brewery,France,Archie’s Burger
-1345805944,2024-01-01,4.5,Super drinkable summer beer,"Suffield, CT",Mango Milkshake,Pale Ale - Milkshake,5.6,Volfas Engelman,Lithuania,Artagonist Art Hotel
-1345806172,2024-01-01,3.5,"",Vilnius,Astus Malum,Cider - Graff,11.5,Browar Kormoran,Poland,Astos salonėlis
-1345806221,2024-01-01,3.5,"",Vilnius,Du.Do.Rų.,Farmhouse Ale - Other,6.0,Dundulis,Lithuania,Utena
-1345806419,2024-01-01,4.3,"",Vilnius,Berry Christmas (Vanilla Blueberry),Stout - Milk / Sweet,6.4,Bear and Boar,Lithuania,Utena
-1345811516,2024-01-01,3.8,"","",Spacca Cranio,IPA - Imperial / Double,8.0,Boia Brewing Company,Italy,Nisha craft Capital
-1345812175,2024-01-01,2.8,"","",Balta Pinta,Wheat Beer - Hefeweizen,5.0,Volfas Engelman,Lithuania,Televizijos bokštas | Vilnius TV tower (Televizijos bokštas)
-1345814841,2024-01-01,4.0,"","",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
-1345817128,2024-01-01,4.0,"","",Super Happy,Pale Ale - New England / Hazy,5.3,Cloudwater Brew Co.,England,Nisha craft Capital
-1345823531,2024-01-01,4.0,"","",Mother of All Daydreams,IPA - Imperial / Double New England / Hazy,8.0,District 96 Beer Factory,United States,Nisha craft Capital
-1345823933,2024-01-01,4.3,Нечакана добра. Далікатныя чарніцы крыху сушаць 🫐,"",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
-1345824679,2024-01-01,4.0,Добра ў стыль піва. Якое лічы на смак не здагадваюся нават ),"",Tender Beast,IPA - Sour,6.0,Nurme,Latvia,Nisha craft Capital
-1345825529,2024-01-01,3.3,Hell ye,"",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Šnekutis
-1345828547,2024-01-01,4.5,"Не часта квады п’ю. Гэты харошы, бочкавая вытрымка дала сваё 🇪🇪","",Quad Particle Wild Turkey BA,Belgian Quadrupel,9.7,Anderson's Brewery,Estonia,Nisha craft Capital
-1345833905,2024-01-01,5.0,"","Philadelphia, PA",Quad Particle Wild Turkey BA,Belgian Quadrupel,9.7,Anderson's Brewery,Estonia,Nisha craft Capital
-1345834575,2024-01-01,0.0,"","",Vyšnių Kriek,Fruit Beer,5.0,Vilkmerges Alus,Lithuania,Grey
-1345840102,2024-01-01,4.0,"","",Barry And Mary (2023),IPA - Imperial / Double,8.2,Badlands Brewing Company,Canada,Nisha craft Capital
-1345840167,2024-01-01,2.0,"","",Murphy's Irish Stout,Stout - Irish Dry,4.0,Heineken Ireland,Ireland,iBar
-1345840455,2024-01-01,3.5,"","",Pineapple Breeze,IPA - Milkshake,5.0,Bear and Boar,Lithuania,iBar
-1345843500,2024-01-01,2.8,"","",Raitas Baitas,Historical Beer - Gruit / Ancient Herbed Ale,5.5,Dundulis,Lithuania,Etmonų Špunka
-1345844728,2024-01-01,3.5,"Sweet, like a lemonade","",Somersby Apple Cider,Cider - Sweet,4.5,Carlsberg Group,Denmark,iBar
-1345846159,2024-01-01,4.0,"","Suffield, CT",Marakešas,Wheat Beer - Hefeweizen,4.2,Kuro Aparatūra,Lithuania,Piano Man Bar
-1345853133,2024-01-01,2.3,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Etno Dvaras
-1345858622,2024-01-01,4.0,"","Suffield, CT",Beta Bangos,Fruit Beer,4.8,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Piano Man Bar
-1345864124,2024-01-01,4.0,"","",Fairy Dust,IPA - New England / Hazy,6.0,Nurme,Latvia,Nisha craft Capital
-1345864159,2024-01-01,3.8,"","",We Have Real Phantasm Here ,Pale Ale - New England / Hazy,5.5,Green Monster Brewery,Lithuania,Nisha craft Capital
-1345864283,2024-01-01,3.8,"","",Tender Beast,IPA - Sour,6.0,Nurme,Latvia,Nisha craft Capital
-1345864333,2024-01-01,3.5,"","",We Have Real Phantasm Here ,Pale Ale - New England / Hazy,5.5,Green Monster Brewery,Lithuania,Nisha craft Capital
-1345864635,2024-01-01,4.0,"","",Under the Stars,IPA - Triple New England / Hazy,10.0,Spartacus Brewing,Brazil,Nisha craft Capital
 1345864884,2024-01-01,4.5,"","",Mind on Fire,IPA - Triple New England / Hazy,9.5,Spartacus Brewing,Brazil,Nisha craft Capital
 1345864975,2024-01-01,3.0,"","",Italian Style Sour Ale,Sour - Berliner Weisse,4.5,Genys Brewing Co.,Lithuania,Linkmenų Ežerai
 1345866924,2024-01-01,3.8,"","",We Have Real Phantasm Here ,Pale Ale - New England / Hazy,5.5,Green Monster Brewery,Lithuania,Nisha craft Capital
@@ -2320,3 +2260,63 @@ Gal sekmadienio vakarą jau nuotaika eina i darbus, bet šį kartą alus atrodo 
 1352530854,2024-01-31,4.0,"","",Svart,Mead - Melomel,7.0,Mead Scientist,Hungary,Nisha Craft Capital
 1352536379,2024-01-31,3.8,"","",Permafrost,Porter - Baltic,7.5,FUERST WIACEK Berlin ,Germany,Nisha Craft Capital
 1352538912,2024-01-31,3.3,"",Vilnius,Daujotų Kvietinis,Wheat Beer - Hefeweizen,5.1,Davra Alaus Darykla,Lithuania,Baltas Ūsas
+1345566163,2024-01-01,3.8,Не чекинил с прошлого года))0)0)0))0),"",Kafar,IPA - Triple New England / Hazy,9.5,Ziemia Obiecana,Poland,Nisha craft Capital
+1345566854,2024-01-01,4.5,Sehr leckeres Stout,"",Vilnius Velvet,Porter - Baltic,6.5,Bear and Boar,Lithuania,Bear&Boar Brewery Taproom
+1345568925,2024-01-01,4.5,Fast überfordernd saftig und hopfig. Schmeckt ein wenig nach Mango,"",Mystic Trail,IPA - American,5.9,Bear and Boar,Lithuania,Bear&Boar Brewery Taproom
+1345569752,2024-01-01,4.0,"","",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
+1345571886,2024-01-01,4.3,"","",Cherry x Red Currant x Apricot x Vanilla Sour Ale,Sour - Fruited,5.0,Ārpus Brewing Co.,Latvia,Nisha craft Capital
+1345577072,2024-01-01,4.0,"","",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
+1345577769,2024-01-01,3.8,"",Kaunas ,Alchemy APA,Pale Ale - American,5.8,Hopalaa,Latvia,Alchemikas Cocktail Lab
+1345592123,2024-01-01,4.3,"","Philadelphia, PA",Grimbergen Double Ambrée,Belgian Dubbel,6.5,Kronenbourg Brewery,France,7 Fridays
+1345593761,2024-01-01,4.0,"","",Алiварыя Калядны Цуд (Alivaria Kaliadny Cud),Lager - Winter,5.1,Пивоваренная компания «Аливария» (Alivaria Brewery),Belarus,Kraftaviks
+1345595235,2024-01-01,4.0,"Läuft bisschen außer Konkurrenz - nicht meins, aber Hut ab vor der handwerklichen Leistung. Es ist ein Multivitaminsaft-Milchshake.","",Pineapple Breeze,IPA - Milkshake,5.0,Bear and Boar,Lithuania,Bear&Boar Brewery Taproom
+1345600834,2024-01-01,4.0,А пиво то ПРОШЛОГОДНЕЕ))))0)0)00))),"",This Is Memorial Device,IPA - American,6.5,Verdant Brewing Co,England,Nisha craft Capital
+1345606077,2024-01-01,4.3,"",Vilnius,Ashes & Diamonds: Tawny Port / Raisins / Figs / Dates,Barleywine - American,12.0,Funky Fluid,Poland,Naujamiestis
+1345615239,2024-01-01,4.0,"","",Алiварыя Калядны Цуд (Alivaria Kaliadny Cud),Lager - Winter,5.1,Пивоваренная компания «Аливария» (Alivaria Brewery),Belarus,Kraftaviks
+1345615411,2024-01-01,3.8,"",Vilnius,XII Flemish Red Ale,Sour - Flanders Red Ale,5.2,Sosab - Sour Ale Brewery,Belgium,Žvėryno Mansarda
+1345626723,2024-01-01,3.8,"","",Citra IPA,IPA - American,5.4,Bear and Boar,Lithuania,Nisha craft Capital
+1345642506,2024-01-01,4.0,Ačiū!,"",Set It Up,IPA - New England / Hazy,6.0,Cloudwater Brew Co.,England,Nisha craft Capital
+1345645624,2024-01-01,2.5,Meh,"",Upstream Pale Ale,Pale Ale - Other,4.5,Rye River Brewing Company,Ireland,Vilnius
+1345650637,2024-01-01,3.8,"","",Order Lost,IPA - White / Wheat,6.5,Hop Racer,Netherlands,Nisha craft Capital
+1345650915,2024-01-01,4.5,"",Vilnius,Anagram Blueberry Cheesecake Stout,Stout - Imperial / Double Pastry,12.0,Omnipollo,Sweden,Naujamiestis
+1345653273,2024-01-01,4.3,Барбарыска,"",Secret Machine - Cherry Cobbler Pie A La Mode,Fruit Beer,7.0,Dewey Beer Company,United States,Nisha craft Capital
+1345653697,2024-01-01,4.0,"","",Secret Machine - Cherry Cobbler Pie A La Mode,Fruit Beer,7.0,Dewey Beer Company,United States,Nisha craft Capital
+1345655421,2024-01-01,3.8,"","",Order Lost,IPA - White / Wheat,6.5,Hop Racer,Netherlands,Nisha craft Capital
+1345657015,2024-01-01,4.0,"","","Dora #56",IPA - American,6.5,Badlands Brewing Company,Canada,Nisha craft Capital
+1345657597,2024-01-01,4.0,"","","Dora #56",IPA - American,6.5,Badlands Brewing Company,Canada,Nisha craft Capital
+1345671056,2024-01-01,4.0,"","",Lil' Space Booties,Pale Ale - New England / Hazy,5.5,More Brewing Company,United States,Nisha craft Capital
+1345689417,2024-01-01,0.8,"","",Heineken,Lager - Pale,5.0,Heineken,Netherlands,Misterija
+1345697548,2024-01-01,1.0,"","",Miller Genuine Draft,Lager - American,4.7,Miller Brewing Company,United States,ibis Vilnius Centre
+1345713973,2024-01-01,2.3,"","",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Misterija
+1345793298,2024-01-01,4.3,"","",Mind on Fire,IPA - Triple New England / Hazy,9.5,Spartacus Brewing,Brazil,Nisha craft Capital
+1345797933,2024-01-01,3.0,"",Vilnius,Corn Lager,Lager - Other,4.3,Sakiškės Brewery / Sakiškių Alus,Lithuania,Žvėryno Mansarda
+1345802478,2024-01-01,3.0,"","",Ichiban (Ichiban Shibori) (一番搾り),Lager - Pale,5.0,Kirin Brewery Company,Japan,Linkmenų Ežerai
+1345804953,2024-01-01,3.5,Labai gerai. Atgaivina ir neįpareigoja.,Vilnius,1664 Blanc,Wheat Beer - Witbier / Blanche,5.0,Kronenbourg Brewery,France,Archie’s Burger
+1345805944,2024-01-01,4.5,Super drinkable summer beer,"Suffield, CT",Mango Milkshake,Pale Ale - Milkshake,5.6,Volfas Engelman,Lithuania,Artagonist Art Hotel
+1345806172,2024-01-01,3.5,"",Vilnius,Astus Malum,Cider - Graff,11.5,Browar Kormoran,Poland,Astos salonėlis
+1345806221,2024-01-01,3.5,"",Vilnius,Du.Do.Rų.,Farmhouse Ale - Other,6.0,Dundulis,Lithuania,Utena
+1345806419,2024-01-01,4.3,"",Vilnius,Berry Christmas (Vanilla Blueberry),Stout - Milk / Sweet,6.4,Bear and Boar,Lithuania,Utena
+1345811516,2024-01-01,3.8,"","",Spacca Cranio,IPA - Imperial / Double,8.0,Boia Brewing Company,Italy,Nisha craft Capital
+1345812175,2024-01-01,2.8,"","",Balta Pinta,Wheat Beer - Hefeweizen,5.0,Volfas Engelman,Lithuania,Televizijos bokštas | Vilnius TV tower (Televizijos bokštas)
+1345814841,2024-01-01,4.0,"","",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
+1345817128,2024-01-01,4.0,"","",Super Happy,Pale Ale - New England / Hazy,5.3,Cloudwater Brew Co.,England,Nisha craft Capital
+1345823531,2024-01-01,4.0,"","",Mother of All Daydreams,IPA - Imperial / Double New England / Hazy,8.0,District 96 Beer Factory,United States,Nisha craft Capital
+1345823933,2024-01-01,4.3,Нечакана добра. Далікатныя чарніцы крыху сушаць 🫐,"",Imperial Blueberry & Vanilla Stout,Stout - Imperial / Double,8.2,The Garden Brewery,Croatia,Nisha craft Capital
+1345824679,2024-01-01,4.0,Добра ў стыль піва. Якое лічы на смак не здагадваюся нават ),"",Tender Beast,IPA - Sour,6.0,Nurme,Latvia,Nisha craft Capital
+1345825529,2024-01-01,3.3,Hell ye,"",Californication / Kalifornikacija,Pale Ale - American,4.5,Genys Brewing Co.,Lithuania,Šnekutis
+1345828547,2024-01-01,4.5,"Не часта квады п’ю. Гэты харошы, бочкавая вытрымка дала сваё 🇪🇪","",Quad Particle Wild Turkey BA,Belgian Quadrupel,9.7,Anderson's Brewery,Estonia,Nisha craft Capital
+1345833905,2024-01-01,5.0,"","Philadelphia, PA",Quad Particle Wild Turkey BA,Belgian Quadrupel,9.7,Anderson's Brewery,Estonia,Nisha craft Capital
+1345834575,2024-01-01,0.0,"","",Vyšnių Kriek,Fruit Beer,5.0,Vilkmerges Alus,Lithuania,Grey
+1345840102,2024-01-01,4.0,"","",Barry And Mary (2023),IPA - Imperial / Double,8.2,Badlands Brewing Company,Canada,Nisha craft Capital
+1345840167,2024-01-01,2.0,"","",Murphy's Irish Stout,Stout - Irish Dry,4.0,Heineken Ireland,Ireland,iBar
+1345840455,2024-01-01,3.5,"","",Pineapple Breeze,IPA - Milkshake,5.0,Bear and Boar,Lithuania,iBar
+1345843500,2024-01-01,2.8,"","",Raitas Baitas,Historical Beer - Gruit / Ancient Herbed Ale,5.5,Dundulis,Lithuania,Etmonų Špunka
+1345844728,2024-01-01,3.5,"Sweet, like a lemonade","",Somersby Apple Cider,Cider - Sweet,4.5,Carlsberg Group,Denmark,iBar
+1345846159,2024-01-01,4.0,"","Suffield, CT",Marakešas,Wheat Beer - Hefeweizen,4.2,Kuro Aparatūra,Lithuania,Piano Man Bar
+1345853133,2024-01-01,2.3,"","",Ekstra,Lager - Dortmunder / Export,5.2,Švyturys,Lithuania,Etno Dvaras
+1345858622,2024-01-01,4.0,"","Suffield, CT",Beta Bangos,Fruit Beer,4.8,Brick by Brick (Raudonų Plytų Alaus Dirbtuvės),Lithuania,Piano Man Bar
+1345864124,2024-01-01,4.0,"","",Fairy Dust,IPA - New England / Hazy,6.0,Nurme,Latvia,Nisha craft Capital
+1345864159,2024-01-01,3.8,"","",We Have Real Phantasm Here ,Pale Ale - New England / Hazy,5.5,Green Monster Brewery,Lithuania,Nisha craft Capital
+1345864283,2024-01-01,3.8,"","",Tender Beast,IPA - Sour,6.0,Nurme,Latvia,Nisha craft Capital
+1345864333,2024-01-01,3.5,"","",We Have Real Phantasm Here ,Pale Ale - New England / Hazy,5.5,Green Monster Brewery,Lithuania,Nisha craft Capital
+1345864635,2024-01-01,4.0,"","",Under the Stars,IPA - Triple New England / Hazy,10.0,Spartacus Brewing,Brazil,Nisha craft Capital
