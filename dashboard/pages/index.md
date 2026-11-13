@@ -96,6 +96,7 @@ where day_start_date between '${inputs.date_filter.start}' and '${inputs.date_fi
     <ReferencePoint x="2024-09-20" y=1800 label="Putoja 2024" labelPosition=top/>
     <ReferencePoint x="2024-11-29" y=1800 label="VAF 2024" labelPosition=right/>
     <ReferencePoint x="2025-09-13" y=2100 label="Putoja 2025" labelPosition=top/>
+    <ReferencePoint x="2026-09-12" y=2100 label="Putoja 2026" labelPosition=top/>
 </LineChart>
 
 ### Top beer styles
